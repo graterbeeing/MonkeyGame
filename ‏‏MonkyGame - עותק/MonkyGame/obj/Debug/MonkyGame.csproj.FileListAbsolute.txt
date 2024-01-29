@@ -1,0 +1,46 @@
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\bin\Debug\MonkyGame.exe.config
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\bin\Debug\MonkyGame.exe
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\bin\Debug\MonkyGame.pdb
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.csproj.AssemblyReference.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MainWindow.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\App.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame_MarkupCompile.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame_MarkupCompile.lref
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MainWindow.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.g.resources
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.Properties.Resources.resources
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.csproj.GenerateResource.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.csproj.CoreCompileInputs.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.exe
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\MonkyGame.pdb
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\RulesTab.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\RulesTab.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\GameTab.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\GameTab.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\Score_Window.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\MonkyGame\MonkyGame\obj\Debug\Score_Window.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\bin\Debug\MonkyGame.exe.config
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\bin\Debug\MonkyGame.exe
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\bin\Debug\MonkyGame.pdb
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.csproj.AssemblyReference.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\App.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame_MarkupCompile.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame_MarkupCompile.lref
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.g.resources
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.Properties.Resources.resources
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.csproj.GenerateResource.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.csproj.CoreCompileInputs.cache
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.exe
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\MonkyGame.pdb
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\MainWindow.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\MainWindow.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\Score_Window.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\GameTab.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\GameTab.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\Score_Window.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\RulesTab.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\RulesTab.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\LogIn.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\LogIn.baml
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\SignUp.g.cs
+C:\Users\OZ\OneDrive\מסמכים\C# 2022\repose\‏‏MonkyGame - עותק\MonkyGame\obj\Debug\View\SignUp.baml
